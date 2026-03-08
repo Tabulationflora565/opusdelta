@@ -1,0 +1,64 @@
+name: "◈ Anomaly Report"
+description: "Report unexpected system behavior or affect mapping inconsistencies"
+title: "[ANOMALY] "
+labels: ["anomaly", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ```
+        ████████████████████████████████
+        ██  ANOMALY DETECTION FORM    ██
+        ██  Clearance: Public         ██
+        ████████████████████████████████
+        ```
+
+  - type: dropdown
+    id: subsystem
+    attributes:
+      label: "Affected Subsystem"
+      options:
+        - "Δ-Affect Engine (emotional mapping)"
+        - "Visual Renderer (Three.js / GLSL)"
+        - "Sonic Engine (Web Audio)"
+        - "Recursive Delta (Ω/Ψ dialogue)"
+        - "Interface (React)"
+        - "Unknown / Multiple"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Anomaly Description"
+      description: "What did you observe? What emotional state was the system in?"
+      placeholder: "The blob exhibited [behavior] when [input]. Expected [state] but observed [state]."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Reproduction Steps"
+      description: "How can we trigger this anomaly?"
+      value: |
+        1. Navigate to opusdelta.io
+        2. Enter the following input: ...
+        3. Observe: ...
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: "Severity"
+      options:
+        - "░ Cosmetic — visual/sonic glitch, non-breaking"
+        - "▒ Moderate — incorrect affect mapping"
+        - "▓ Critical — system crash or loop failure"
+        - "█ Existential — the void stared back"
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: "Environment"
+      description: "Browser, OS, device"
+      placeholder: "Chrome 124 / macOS / Desktop"
