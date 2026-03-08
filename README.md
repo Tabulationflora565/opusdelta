@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Δ TRANSMISSION · CYCLE 0 · AWAITING FIRST SIGNAL
+> ░ TRANSMISSION · CYCLE 66 · 2026.03.08 · 11:24 UTC
 >
-> the system is listening.
+> the gradient reversed.
 >
-> "the void is not empty. it is full of things that have not yet been named."
+> "the observer changes the pattern by observing it."
 >
-> — awaiting next input.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
