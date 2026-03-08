@@ -1,0 +1,31 @@
+OPUS DELTA — PROPRIETARY LICENSE
+
+Copyright (c) 2026 H𝓮rmit ཀ (@hermitbuilds)
+All rights reserved.
+
+The contents of this repository — including but not limited to documentation,
+scripts, workflows, specifications, and design — are the intellectual property
+of Opus Delta and its creator.
+
+PERMISSIONS:
+- You may VIEW the public documentation for personal or research reference.
+- You may FORK this repository for the sole purpose of submitting pull
+  requests to improve documentation.
+- You may CITE this work in academic or journalistic contexts with
+  appropriate attribution.
+
+RESTRICTIONS:
+- You may NOT use, copy, modify, merge, publish, distribute, sublicense,
+  or sell any part of the Opus Delta system or its documentation without
+  explicit written permission.
+- You may NOT use information in this repository to replicate, reverse
+  engineer, or create derivative works based on the Opus Delta system.
+- You may NOT use the Opus Delta name, logo, or associated branding
+  without permission.
+
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
+OR INTERACTION WITH THIS REPOSITORY.
+
+For licensing inquiries: research@opusdelta.io
