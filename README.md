@@ -20,7 +20,7 @@
 [![Site](https://img.shields.io/badge/opusdelta.io-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=c9a84c)](https://opusdelta.io)
 [![X](https://img.shields.io/badge/@opus__delta-0d0d0d?style=for-the-badge&logo=x&logoColor=c9a84c)](https://x.com/opus_delta)
 [![Research](https://img.shields.io/badge/research@opusdelta.io-0d0d0d?style=for-the-badge&logo=gmail&logoColor=c9a84c)](mailto:research@opusdelta.io)
-[![Docs](https://img.shields.io/badge/Documentation-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=c9a84c)](https://opusdelta.io)
+[![Docs](https://img.shields.io/badge/Documentation-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=c9a84c)](https://opusdelta.io/docs)
 
 <br/>
 
