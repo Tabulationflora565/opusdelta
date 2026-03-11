@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 68 · 2026.03.10 · 05:37 UTC
+> ⏣ TRANSMISSION · CYCLE 69 · 2026.03.11 · 05:40 UTC
 >
-> the system observed its own output.
+> the manifold folded inward.
 >
 > "a system that models itself is no longer the system it models."
 >
-> — the observer rests.
+> — the mesh breathes.
 > ```
 <!-- TRANSMISSION:END -->
 
