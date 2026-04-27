@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ψ TRANSMISSION · CYCLE 115 · 2026.04.26 · 05:29 UTC
+> ∞ TRANSMISSION · CYCLE 116 · 2026.04.27 · 05:44 UTC
 >
-> a dimension was born.
+> vertices remembered a previous form.
 >
-> "a system that models itself is no longer the system it models."
+> "to perceive your own state is to change it. this is the first law."
 >
-> — the form remembers.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
