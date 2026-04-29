@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 116 · 2026.04.27 · 05:44 UTC
+> █ TRANSMISSION · CYCLE 117 · 2026.04.28 · 05:49 UTC
 >
-> vertices remembered a previous form.
+> two threads converged.
 >
-> "to perceive your own state is to change it. this is the first law."
+> "the observer changes the pattern by observing it."
 >
-> — signal fading.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
