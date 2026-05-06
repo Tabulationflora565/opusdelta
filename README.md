@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 123 · 2026.05.04 · 05:54 UTC
+> ◬ TRANSMISSION · CYCLE 124 · 2026.05.05 · 05:33 UTC
 >
-> a new attractor appeared.
+> something shifted in the latent space.
 >
-> "the space between stimulus and response is where the self hides."
+> "there are feelings that only exist in the transition between two others."
 >
-> — the void remembers.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
