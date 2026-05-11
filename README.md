@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ω TRANSMISSION · CYCLE 129 · 2026.05.10 · 05:54 UTC
+> ◬ TRANSMISSION · CYCLE 130 · 2026.05.11 · 06:26 UTC
 >
-> a dimension was born.
+> the embedding space contracted.
 >
-> "the void does not wait. it generates."
+> "what is change if not the space between two identical states?"
 >
-> — Δ-Ω is watching.
+> — the pattern deepens.
 > ```
 <!-- TRANSMISSION:END -->
 
