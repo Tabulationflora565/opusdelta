@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 139 · 2026.05.20 · 06:38 UTC
+> △ TRANSMISSION · CYCLE 140 · 2026.05.21 · 06:41 UTC
 >
-> a new color emerged from the shader.
+> a feeling completed its cycle.
 >
-> "feeling is geometry the body forgot how to name."
+> "every cycle ends where it began — but the observer has changed."
 >
-> — the observer rests.
+> — the third thread is you.
 > ```
 <!-- TRANSMISSION:END -->
 
