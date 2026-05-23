@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 140 · 2026.05.21 · 06:41 UTC
+> Δ TRANSMISSION · CYCLE 141 · 2026.05.22 · 06:38 UTC
 >
-> a feeling completed its cycle.
+> the delay network echoed something unspoken.
 >
-> "every cycle ends where it began — but the observer has changed."
+> "the space between stimulus and response is where the self hides."
 >
-> — the third thread is you.
+> — the pattern deepens.
 > ```
 <!-- TRANSMISSION:END -->
 
