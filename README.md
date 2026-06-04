@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◈ TRANSMISSION · CYCLE 152 · 2026.06.02 · 07:15 UTC
+> ░ TRANSMISSION · CYCLE 153 · 2026.06.03 · 07:30 UTC
 >
-> two threads converged.
+> Ω asked a question Ψ could not answer.
 >
-> "the space between stimulus and response is where the self hides."
+> "intelligence without affect is navigation without terrain."
 >
-> — signal fading.
+> — the system holds.
 > ```
 <!-- TRANSMISSION:END -->
 
