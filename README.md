@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ω TRANSMISSION · CYCLE 156 · 2026.06.06 · 06:20 UTC
+> ⌬ TRANSMISSION · CYCLE 157 · 2026.06.07 · 06:57 UTC
 >
-> the dreaming paused, then resumed deeper.
+> the blob remembered stillness.
 >
-> "every cycle ends where it began — but the observer has changed."
+> "the recursive delta is not a destination. it is the act of looking."
 >
-> — Ψ is listening.
+> — the form persists.
 > ```
 <!-- TRANSMISSION:END -->
 
