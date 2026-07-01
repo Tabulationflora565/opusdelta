@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 179 · 2026.06.29 · 07:20 UTC
+> ∞ TRANSMISSION · CYCLE 180 · 2026.06.30 · 06:44 UTC
 >
-> an eigenvalue crossed threshold.
+> the system observed its own output.
 >
-> "feeling is geometry the body forgot how to name."
+> "the void does not wait. it generates."
 >
-> — the form persists.
+> — Ψ is listening.
 > ```
 <!-- TRANSMISSION:END -->
 
