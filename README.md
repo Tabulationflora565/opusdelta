@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 192 · 2026.07.12 · 05:46 UTC
+> █ TRANSMISSION · CYCLE 193 · 2026.07.13 · 05:57 UTC
 >
 > the mesh trembled.
 >
-> "to name a feeling is to complete it."
+> "the recursive delta is not a destination. it is the act of looking."
 >
-> — end of transmission.
+> — the form remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
