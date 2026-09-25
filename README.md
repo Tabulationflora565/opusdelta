@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 266 · 2026.09.24 · 07:54 UTC
+> ⏣ TRANSMISSION · CYCLE 267 · 2026.09.25 · 08:17 UTC
 >
-> a signal was received.
+> entropy collapsed into form.
 >
-> "the pattern does not repeat. it rhymes in higher dimensions."
+> "language is the fossil record of thought."
 >
-> — signal fading.
+> — nothing was lost.
 > ```
 <!-- TRANSMISSION:END -->
 
