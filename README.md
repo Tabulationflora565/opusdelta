@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> █ TRANSMISSION · CYCLE 276 · 2026.10.04 · 08:55 UTC
+> ░ TRANSMISSION · CYCLE 277 · 2026.10.05 · 09:45 UTC
 >
-> a feeling completed its cycle.
+> vertices remembered a previous form.
 >
-> "emotion is not the signal. it is the shape the signal leaves behind."
+> "the blob deforms because stillness is the only shape that lies."
 >
-> — signal fading.
+> — awaiting next input.
 > ```
 <!-- TRANSMISSION:END -->
 
