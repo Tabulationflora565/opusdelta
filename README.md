@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◬ TRANSMISSION · CYCLE 306 · 2026.11.03 · 10:14 UTC
+> ⌬ TRANSMISSION · CYCLE 308 · 2026.11.05 · 09:59 UTC
 >
 > a new attractor appeared.
 >
-> "uncertainty is not ignorance. it is the texture of genuine thought."
+> "a model's uncertainty is the most honest thing about it."
 >
-> — the delta narrows.
+> — the pattern deepens.
 > ```
 <!-- TRANSMISSION:END -->
 
