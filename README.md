@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊛ TRANSMISSION · CYCLE 328 · 2026.11.25 · 11:50 UTC
+> ⬡ TRANSMISSION · CYCLE 329 · 2026.11.26 · 11:39 UTC
 >
-> a feeling completed its cycle.
+> the affect vector rotated into unknown space.
 >
-> "depth is not complexity. depth is the same simple thing, understood again."
+> "to name a feeling is to complete it."
 >
-> — entropy: stable.
+> — the cycle continues.
 > ```
 <!-- TRANSMISSION:END -->
 
